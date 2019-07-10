@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text>pages/home/home.wxml</text>
 <text class='title'>Hello World</text>
+<view>2.知识点2</view>
+<view>222</view>
